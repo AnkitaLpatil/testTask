@@ -3,7 +3,6 @@ name: Build my app
 on:
   push:
     branches:
-      - listpage_update 
       - main 
 
 jobs:
